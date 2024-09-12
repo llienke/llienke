@@ -9,9 +9,9 @@ Development hub for Jaka Robotics seconday development.
 #
 ## SDK versions
 
-| Windows | [CS](https://github.com/llienke/sdk-win-cs) | [C++](https://github.com/llienke/sdk-win-cpp) | [C](https://github.com/llienke/sdk-win-c) |
+| Windows | [CSHARP](https://github.com/llienke/sdk-win-cs) | [C++](https://github.com/llienke/sdk-win-cpp) | [C](https://github.com/llienke/sdk-win-c) | [PYTHON](https://github.com/llienke/sdk-win-python)
 | ------- | -- | --- | - |
-| Linux |  | [C++](https://github.com/llienke/sdk-lin-cpp) | [C](https://github.com/llienke/sdk-lin-c) | 
+| Linux |  | [C++](https://github.com/llienke/sdk-lin-cpp) | [C](https://github.com/llienke/sdk-lin-c) | [PYTHON](https://github.com/llienke/sdk-lin-python)
 
 
 ## Example Projects
